@@ -1,5 +1,4 @@
-#us-proxy
-This is a scraper that runs on [Morph](https://morph.io/CookieMichal/us-proxy). To get started see the [API](https://morph.io/documentation/api?scraper=CookieMichal%2Fus-proxy)
+#us-proxies
 
 ##Proxy lists used
 * http://us-proxy.org/
@@ -28,7 +27,3 @@ This is a scraper that runs on [Morph](https://morph.io/CookieMichal/us-proxy). 
 * Level 1 - Elite Proxy / Highly Anonymous Proxy: The web server can't detect whether you are using a proxy.
 * Level 2 - Anonymous Proxy: The web server can know you are using a proxy, but it can't know your real IP.
 * Level 3 - Transparent Proxy: The web server can know you are using a proxy and it can also know your real IP.
-
-[us]: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table
-[2016-03-29T17:34:54.814Z]:https://en.wikipedia.org/wiki/ISO_8601
-# us-proxies
